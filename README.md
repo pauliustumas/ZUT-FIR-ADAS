@@ -42,12 +42,31 @@ To have images without low pass filter applied you should make the following ste
 You can use two sources for download:
 [IEEE Dataport](https://ieee-dataport.org/open-access/zut-fir-adas)
 
-Or from our storage:
+Or from our server:
 
 [Poland.zip (33.32 GB)](http://88.119.191.48/ZUT/Poland.zip)
+
 [Lithuania.zip (16.85 GB)](http://88.119.191.48/ZUT/Lithuania.zip)
+
 [Germany.zip (18.73 GB)](http://88.119.191.48/ZUT/Germany.zip)
+
 [Denmark.zip (26.11 GB)](http://88.119.191.48/ZUT/Denmark.zip)
+
+[Classes.txt](http://88.119.191.48/ZUT/classes.txt)
+
+### Cite our Dataset
+
+@ARTICLE{9044295,
+  author={P. {Tumas} and A. {Nowosielski} and A. {Serackis}},
+  journal={IEEE Access}, 
+  title={Pedestrian Detection in Severe Weather Conditions}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={62775-62784},}
+
+
+
 
 
 
