@@ -1,6 +1,8 @@
 # ZUT-FIR-ADAS
 
-A new dataset for on-road FIR pedestrian detection in severe weather conditions
+[![ZUT-FIR-ADAS](https://img.youtube.com/vi/utqGU2Yt_qM/0.jpg)](https://www.youtube.com/watch?v=utqGU2Yt_qM)
+
+A new thermal dataset for on-road FIR pedestrian detection in severe weather conditions containing CAN bus data.
 
 ### Description
 
@@ -64,6 +66,8 @@ Or from our server:
   volume={8},
   number={},
   pages={62775-62784},}
+  
+  
 
 
 
